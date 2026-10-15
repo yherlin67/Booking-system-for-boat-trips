@@ -12,15 +12,15 @@ Toutes les données étaient récupérées en temps réel depuis une API mise en
 
 ## Fonctionnalités
 
-**Accueil** : Présentation de la compagnie, vidéo de Groix, téléchargement de l'application CAN (cette application a été développé par les deux autres membres de mon équipe ! Elle permet de créer une nouvelle réservation).
+- **Accueil** : Présentation de la compagnie, vidéo de Groix, téléchargement de l'application CAN (cette application a été développé par les deux autres membres de mon équipe ! Elle permet de créer une nouvelle réservation).
 
-**Cartes d'embarquement** : À partir d'un numéro de réservation, génère une carte d'embarquement par passager, par véhicule et par animal. On passe de l'une à l'autre avec les flèches ❮ ❯.
+- **Cartes d'embarquement** : À partir d'un numéro de réservation, génère une carte d'embarquement par passager, par véhicule et par animal. On passe de l'une à l'autre avec les flèches ❮ ❯.
 
-**Facture** : Calcule et affiche la facture détaillée d'une réservation : catégories de passagers et de véhicules, prix unitaires selon le trajet, totaux.
+- **Facture** : Calcule et affiche la facture détaillée d'une réservation : catégories de passagers et de véhicules, prix unitaires selon le trajet, totaux.
 
-**Tableau de bord** : Taux de remplissage d'une liaison à une date donnée, pour chaque horaire.
+- **Tableau de bord** : Taux de remplissage d'une liaison à une date donnée, pour chaque horaire.
 
-**Statistiques** : Chiffre d'affaires et nombre de passagers et de véhicules pour les 4 liaisons, avec le total général, pour Novembre 2025.
+- **Statistiques** : Chiffre d'affaires et nombre de passagers et de véhicules pour les 4 liaisons, avec le total général, pour Novembre 2025.
 
 ## Captures d'écran
 
